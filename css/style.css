@@ -311,17 +311,26 @@ h1, h2, h3, h4, h5, h6 {
   text-align: center;
 }
 #fh5co-home .text-inner h1 {
-  font-size: 38px;
+  font-size: 72px;
   text-transform: uppercase;
   color: white;
   margin: 0 0 20px 0;
   font-weight: 700;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
 }
 #fh5co-home .text-inner h2 {
-  font-size: 20px;
+  font-size: 40px;
   line-height: 30px;
   font-weight: 300;
-  color: rgba(255, 255, 255, 0.8);
+  color: white;
+  margin: 0 0 60px 0;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+#fh5co-home .text-inner h3 {
+  font-size: 40px;
+  line-height: 30px;
+  font-weight: 300;
+  color: white;
   margin: 0 0 60px 0;
 }
 #fh5co-home .text-inner .call-to-action {
